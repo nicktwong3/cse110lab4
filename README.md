@@ -1,3 +1,3 @@
 # README
-Name: Nicholas Wong
+Name: Nicholas Wong  
 Email: ntw007@ucsd.edu
